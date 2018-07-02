@@ -26,11 +26,12 @@ const get_user = (req, res) => {
 }
 
 const create_user = (req, res) => {
+
   const newUser = new User(req.body);
 
   newUser.save(err => {  
     if (err) return res.status(500).send(err);
-    return res.status(200).send(newTodoObj);
+    return res.status(200).send(newUser);
   });
 }
 

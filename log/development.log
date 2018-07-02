@@ -32,3 +32,31 @@
 {"message":"Successfully connected to mongodb://localhost:27017 MongoDB cluster in development mode.","level":"info"}
 {"message":"API is now running on port 3000 in development mode","level":"info"}
 {"message":"Successfully connected to mongodb://localhost:27017 MongoDB cluster in development mode.","level":"info"}
+{"message":"API is now running on port 3000 in development mode","level":"info"}
+{"message":"Successfully connected to mongodb://localhost:27017 MongoDB cluster in development mode.","level":"info"}
+{"message":"Mon Jul 02 2018 09:27:41 GMT+0700 (+07): GET /users","level":"info"}
+{"message":"API is now running on port 3000 in development mode","level":"info"}
+{"message":"Successfully connected to mongodb://localhost:27017 MongoDB cluster in development mode.","level":"info"}
+{"message":"Mon Jul 02 2018 09:28:02 GMT+0700 (+07): POST /users","level":"info"}
+{"message":"API is now running on port 3000 in development mode","level":"info"}
+{"message":"Successfully connected to mongodb://localhost:27017 MongoDB cluster in development mode.","level":"info"}
+{"message":"API is now running on port 3000 in development mode","level":"info"}
+{"message":"Successfully connected to mongodb://localhost:27017 MongoDB cluster in development mode.","level":"info"}
+{"message":"API is now running on port 3000 in development mode","level":"info"}
+{"message":"Successfully connected to mongodb://localhost:27017 MongoDB cluster in development mode.","level":"info"}
+{"message":"Mon Jul 02 2018 09:31:09 GMT+0700 (+07): POST /users","level":"info"}
+{"message":"Mon Jul 02 2018 09:38:43 GMT+0700 (+07): POST /users","level":"info"}
+{"message":"Mon Jul 02 2018 09:39:22 GMT+0700 (+07): POST /users","level":"info"}
+{"message":"API is now running on port 3000 in development mode","level":"info"}
+{"message":"Successfully connected to mongodb://localhost:27017 MongoDB cluster in development mode.","level":"info"}
+{"message":"Mon Jul 02 2018 09:40:51 GMT+0700 (+07): POST /users","level":"info"}
+{"message":"API is now running on port 3000 in development mode","level":"info"}
+{"message":"Successfully connected to mongodb://localhost:27017 MongoDB cluster in development mode.","level":"info"}
+{"message":"Mon Jul 02 2018 09:45:09 GMT+0700 (+07): POST /users","level":"info"}
+{"message":"Mon Jul 02 2018 09:46:02 GMT+0700 (+07): POST /users","level":"info"}
+{"message":"Mon Jul 02 2018 09:46:24 GMT+0700 (+07): POST /users","level":"info"}
+{"message":"Mon Jul 02 2018 09:46:50 GMT+0700 (+07): POST /users","level":"info"}
+{"message":"Mon Jul 02 2018 09:47:05 GMT+0700 (+07): POST /users","level":"info"}
+{"message":"Mon Jul 02 2018 09:48:25 GMT+0700 (+07): POST /users","level":"info"}
+{"message":"Mon Jul 02 2018 09:48:30 GMT+0700 (+07): POST /users","level":"info"}
+{"message":"Mon Jul 02 2018 09:52:30 GMT+0700 (+07): GET /users","level":"info"}
