@@ -1,5 +1,5 @@
-const root_controller = require('../controllers/root');
+const rootController = require('../controllers/root');
 
 module.exports = (app) => {
-  app.route('/').get(root_controller.index)
+  app.route('/').get(rootController.index)
 }

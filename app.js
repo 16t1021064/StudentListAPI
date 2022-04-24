@@ -7,6 +7,7 @@ const logger = require('./utils/logger/index');
 const app = express();
 const logger_request_middleware = require('./middlewares/logger_request');
 const bodyparser = require('body-parser');
+const cors = require('cors')
 //Setup middleware
 hbs.registerPartials(__dirname + '/views/partials') // partials view
 app.set('view engine', 'hbs'); // engine view
@@ -24,7 +25,7 @@ hbs.registerHelper('getCurrentYear', () => { //ViewHelper
 hbs.registerHelper('screamIt', (text) => { //ViewHelper
   return text.toUpperCase();
 });
-
+app.use(cors());
 // run server
 app.listen(config.server.port, (err) => {
   if(err) {
